@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+BackgroundColor White
+ArrowColor Black
+BorderColor Black
+}
+class "Тренер" as Тренер {
+Тренажеры
+Натренирует Тренировка (Нетренированный человек, натренированный человек)
+}
+hide circle
+@enduml
