@@ -17,6 +17,8 @@ IDEF0-диаграмма по Тренировкам
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/UpwuX5rhSrs.jpg)
 
 ## Лабораторная 2
+IDEF0
+![none](https://github.com/Rinat888/rinat888.github.io/blob/master/02_A0.png)
 
 ## Лабораторная 3
 
