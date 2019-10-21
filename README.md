@@ -12,9 +12,9 @@ IDEF0-диаграмма по Тренировкам
 
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/SYRZ20mTHTE.jpg)
 
-Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
+Диаграмма прецедентов
 
-Ссылки на доп.материалы
+![none](https://github.com/Rinat888/rinat888.github.io/blob/master/UpwuX5rhSrs.jpg)
 
 ## Лабораторная 2
 
