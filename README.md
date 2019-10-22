@@ -20,8 +20,9 @@ IDEF0-диаграмма по Тренировкам
 ## Лабораторная 2
 IDEF0
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/02_A0.png)
-![none](https://github.com/Rinat888/rinat888.github.io/blob/master/RP0xhe9068LxLZ7bfM0353TivION7maQWz03CQ6mipQwXL4XyWZ35iwin2ruyWTjjFXpaY_dV8G9jibVdAIho7dqe-FZ26rpMw2scQ-yA9mbtg_wmGcZpL2ZulMy0GrgPGk15nXSeGMsofRI8M9sqAxwqCRB-KAyEDWzHXZsXxULe1URVds0d4aZh_lYIpSYEqybGdJWUaVVdTkIA2SoQ6.png)
+
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/03_A2.png)
+![none](https://github.com/Rinat888/rinat888.github.io/blob/master/RP0xhe9068LxLZ7bfM0353TivION7maQWz03CQ6mipQwXL4XyWZ35iwin2ruyWTjjFXpaY_dV8G9jibVdAIho7dqe-FZ26rpMw2scQ-yA9mbtg_wmGcZpL2ZulMy0GrgPGk15nXSeGMsofRI8M9sqAxwqCRB-KAyEDWzHXZsXxULe1URVds0d4aZh_lYIpSYEqybGdJWUaVVdTkIA2SoQ6.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
