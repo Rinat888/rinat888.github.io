@@ -27,8 +27,8 @@ IDEF0
 DFD:
 
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/03_A2.png)
-Диаграмма прецедентов:
+Диаграмма последовательностей:
 
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/Снимок%20экрана%202019-11-06%20в%2014.50.02.png)
-Диаграмма классов: 
+Диаграмма классов(ERD): 
 ![none](https://github.com/Rinat888/rinat888.github.io/blob/master/Снимок%20экрана%202019-11-06%20в%2015.13.12.png)
